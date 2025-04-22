@@ -77,16 +77,16 @@ const ContactUs = () => {
             </div>
 
             <div className="social-links">
-              <a href="#" className="social-icon">
+              <a href="facebook.com" className="social-icon">
                 <i className="fa fa-facebook"></i>
               </a>
-              <a href="#" className="social-icon">
+              <a href="twitter.com" className="social-icon">
                 <i className="fa fa-twitter"></i>
               </a>
-              <a href="#" className="social-icon">
+              <a href="insta.com" className="social-icon">
                 <i className="fa fa-instagram"></i>
               </a>
-              <a href="#" className="social-icon">
+              <a href="linked.com" className="social-icon">
                 <i className="fa fa-linkedin"></i>
               </a>
             </div>

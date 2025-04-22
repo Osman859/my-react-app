@@ -12,7 +12,7 @@ const Body = () => {
     <div>
       <div className="banner-container">
         <div className="main-banner">
-          <img src={leftbanner} className="bodyimg1" />
+          <img src={leftbanner} className="bodyimg1" alt="bodim" />
           <div className="bodytxt1">
             <h1 className="h1">We Are Hexashop</h1>
             <p className="p1">Awesome, clean & creative HTML5 Template</p>
@@ -24,7 +24,7 @@ const Body = () => {
 
         <div className="right-banners">
           <div className="banner-item">
-            <img src={rightbanner2} className="category-img" />
+            <img src={rightbanner2} className="category-img" alt="rightbn" />
             <div className="overlay">
               <h1 className="category-title">Women</h1>
               <p className="category-subtitle">Best Clothes For Women</p>
@@ -32,7 +32,7 @@ const Body = () => {
           </div>
 
           <div className="banner-item">
-            <img src={rightbanner3} className="category-img" />
+            <img src={rightbanner3} className="category-img" alt="right3" />
             <div className="overlay">
               <h1 className="category-title">Men</h1>
               <p className="category-subtitle">Best Clothes For Men</p>
@@ -40,7 +40,7 @@ const Body = () => {
           </div>
 
           <div className="banner-item">
-            <img src={rightbanner4} className="category-img" />
+            <img src={rightbanner4} className="category-img" alt="righ4" />
             <div className="overlay">
               <h1 className="category-title">Kids</h1>
               <p className="category-subtitle">Best Clothes For Kids</p>
@@ -48,7 +48,7 @@ const Body = () => {
           </div>
 
           <div className="banner-item">
-            <img src={rightbanner5} className="category-img" />
+            <img src={rightbanner5} className="category-img" alt="righ5" />
             <div className="overlay">
               <h1 className="category-title">Accessories</h1>
               <p className="category-subtitle">Best Trend Accessories</p>
