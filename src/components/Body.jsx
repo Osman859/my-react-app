@@ -16,7 +16,7 @@ const Body = () => {
           <div className="bodytxt1">
             <h1 className="h1">We Are Hexashop</h1>
             <p className="p1">Awesome, clean & creative HTML5 Template</p>
-            <a href="#" className="a1">
+            <a href="purchasenow" className="a1">
               Purchase Now!
             </a>
           </div>

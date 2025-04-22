@@ -38,7 +38,7 @@ export default function Explore() {
           <p className="text-content">
             If this template is beneficial for your website or business, please
             kindly{" "}
-            <a href="#" className="support-link">
+            <a href="supportlink" className="support-link">
               support us
             </a>{" "}
             a little via PayPal. Please also tell your friends about our great

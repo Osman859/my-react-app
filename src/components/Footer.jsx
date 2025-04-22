@@ -22,13 +22,13 @@ export default function Footer() {
             <h3 className="footer-heading">Shopping & Categories</h3>
             <ul className="footer-links">
               <li>
-                <a href="#">Men's Shopping</a>
+                <a href="men">Men's Shopping</a>
               </li>
               <li>
-                <a href="#">Women's Shopping</a>
+                <a href="womens">Women's Shopping</a>
               </li>
               <li>
-                <a href="#">Kid's Shopping</a>
+                <a href="kids">Kid's Shopping</a>
               </li>
             </ul>
           </div>
@@ -37,16 +37,16 @@ export default function Footer() {
             <h3 className="footer-heading">Useful Links</h3>
             <ul className="footer-links">
               <li>
-                <a href="#">Homepage</a>
+                <a href="home">Homepage</a>
               </li>
               <li>
-                <a href="#">About Us</a>
+                <a href="about">About Us</a>
               </li>
               <li>
-                <a href="#">Help</a>
+                <a href="help">Help</a>
               </li>
               <li>
-                <a href="#">Contact Us</a>
+                <a href="contact">Contact Us</a>
               </li>
             </ul>
           </div>
@@ -55,16 +55,16 @@ export default function Footer() {
             <h3 className="footer-heading">Help & Information</h3>
             <ul className="footer-links">
               <li>
-                <a href="#">Help</a>
+                <a href="help">Help</a>
               </li>
               <li>
-                <a href="#">FAQ's</a>
+                <a href="Faq">FAQ's</a>
               </li>
               <li>
-                <a href="#">Shipping</a>
+                <a href="shopping">Shipping</a>
               </li>
               <li>
-                <a href="#">Tracking ID</a>
+                <a href="tracking">Tracking ID</a>
               </li>
             </ul>
           </div>
@@ -79,16 +79,16 @@ export default function Footer() {
           </div>
 
           <div className="social-links">
-            <a href="#" className="social-link facebook">
+            <a href="facebook.com" className="social-link facebook">
               <i className="fab fa-facebook-f"></i>
             </a>
-            <a href="#" className="social-link twitter">
+            <a href="twitter.com" className="social-link twitter">
               <i className="fab fa-twitter"></i>
             </a>
-            <a href="#" className="social-link linkedin">
+            <a href="linked.com" className="social-link linkedin">
               <i className="fab fa-linkedin-in"></i>
             </a>
-            <a href="#" className="social-link behance">
+            <a href="behance.com" className="social-link behance">
               <i className="fab fa-behance"></i>
             </a>
           </div>
