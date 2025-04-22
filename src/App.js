@@ -4,13 +4,11 @@ import './App.css';
 import Header from './components/Header'
 import Body from './components/Body';
 import NotFound from './components/NotFound';
-import Crousel from './components/Crousel';
 import About from './components/About';
 import Footer from './components/Footer';
 import Product from './components/Product';
 import SingleProduct from './components/SingleProduct';
 import ContactUs from './components/ContactUs';
-import Explore from './components/Explore'
 
 function App() {
   return (

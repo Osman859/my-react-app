@@ -41,16 +41,16 @@ const AboutUs = () => {
               nisi ut aliquip.
             </p>
             <div className="social-icons">
-              <a href="#" className="icon-circle">
+              <a href="facebook.com" className="icon-circle">
                 <i className="fa fa-facebook"></i>
               </a>
-              <a href="#" className="icon-circle">
+              <a href="twitter.com" className="icon-circle">
                 <i className="fa fa-twitter"></i>
               </a>
-              <a href="#" className="icon-circle">
+              <a href="linkedin.com" className="icon-circle">
                 <i className="fa fa-linkedin"></i>
               </a>
-              <a href="#" className="icon-circle">
+              <a href="behance.com" className="icon-circle">
                 <i className="fa fa-behance"></i>
               </a>
             </div>
