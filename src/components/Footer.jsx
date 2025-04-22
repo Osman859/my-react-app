@@ -10,7 +10,7 @@ export default function Footer() {
             <div className="brand">
               <img src={logo2} alt="Hexashop Logo" className="footer-logo" />
             </div>
-            <div className="contact-info">
+            <div className="contactinfo">
               <p>16501 Collins Ave, Sunny Isles Beach,</p>
               <p>FL 33160, United States</p>
               <p className="contact-email">hexashop@company.com</p>
